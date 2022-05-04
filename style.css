@@ -59,11 +59,23 @@ h4{
     width: 100%;
 }
 
+.content-box-2{
+    width: 75vw;
+    margin-left: 12.5vw;
+    padding-top: 5vw;
+}
+
+.textbox-2{
+    float: right;
+    width: 35.45vw;
+    margin-top: 2vh;
+}
+
 .box-image-2{
     width: 36.7vw;
     height: 70vh;
     background-color: #f86848;
-    margin-right: 2.85vw;
+    
 }
 
 
@@ -89,13 +101,13 @@ height: 180vh;
   height: 200px;
 }
 
-.content-box-2{
+.content-box-3{
     width: 75vw;
     margin-left: 12.5vw;
     display: flex;
 }
 
-.textbox-2{
+.textbox-3{
     width: 35.45vw;
 }
 
@@ -132,7 +144,7 @@ footer{
 
     .section-1{
         background-color: #d9b03f;
-        height: 100vh;
+        height: 130vh;
         width: 100%;
         
     }
@@ -152,14 +164,14 @@ footer{
     h1{
         font-weight: 700;
         line-height: 1.2rem;
-        text-align: center;
-        font-size: 1rem;
+        text-align: left;
+        font-size: 2rem;
         font-family: 'Rubik', sans-serif;
     }
         
     p{
-        margin-top: 2vw;
-        line-height: 0.8rem;
+        margin-top: 5vw;
+        line-height: 1.2rem;
         font-weight: 300;
         font-size: 0.8rem;
         font-family: 'Rubik', sans-serif;
@@ -168,8 +180,8 @@ footer{
     h4{
         margin-top: 2vw ;
         font-weight: 700;
-        font-size: 0.6rem;
-        line-height: 0.6rem;
+        font-size: 0.8rem;
+        line-height: 1.2rem;
         font-family: 'Rubik', sans-serif;
     }
         
@@ -177,14 +189,25 @@ footer{
         width: 100%;
         height: 40vh;
         background-color: #f86848;
-        justify-content: center;
         margin-top: 5vh;
-            
+        margin-left: -2px;
     }
         
     .section-2{
-        height: 195vh;
+        height: 247vh;
         width: 100%;
+    }
+    
+    .content-box-2{
+        width: 75vw;
+        padding-top: 5vw;
+        display: flex;
+    }
+    
+    .textbox-2{
+        width: 100%;
+        margin-top: 2vh;
+        justify-content: center;
     }
         
     .box-image-2{
@@ -199,32 +222,32 @@ footer{
     .section-3{
         background-color: #d9b03f;
         width: 100%;
-        height: 195vh;
+        height: 251vh;
     }
         
         
     .section-4{
-        height: 100vh;
+        height: 127vh;
         width: 100%;
     }
         
     .section-5{
         background-color: #d9b03f;
         width: 100%;
-        height: 195vh;
+        height: 251vh;
     }
         
     .section-6{
         height: 230px;
     }
         
-    .content-box-2{
+    .content-box-3{
         width: 75vw;
         margin-left: 12.5vw;
         display: flex;
     }
         
-    .textbox-2{
+    .textbox-3{
         width: 100%;
     }
         
@@ -232,14 +255,13 @@ footer{
         margin-top: 3vw ;
         font-weight: 700;
         line-height: 1.2rem;
-        font-size: 1rem;
-        text-align: center;
+        font-size: 1.2rem;
         font-family: 'Rubik', sans-serif;
     }
         
     h5{
         margin-top: 2vw;
-        line-height: 1.1rem;
+        line-height: 1.2rem;
         font-weight: 300;
         font-size: 0.8rem;
         font-family: 'Rubik', sans-serif;
@@ -249,9 +271,6 @@ footer{
         height: 30vh;
         background-color: pink ;
     } 
-
-
-
 
 }
 
