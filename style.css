@@ -47,9 +47,7 @@ h4{
 
 .box-image{
     width: 36.7vw;
-    height: 70vh;
-    background-color: #f86848;
-    margin-left: 2.85vw;
+    height: auto;
 }
 
 .section-2{
@@ -70,9 +68,7 @@ h4{
 
 .box-image-2{
     width: 36.7vw;
-    height: 70vh;
-    background-color: #f86848;
-    
+    height: auto;
 }
 
 
