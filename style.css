@@ -1,15 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;700&display=swap');
 
 *{
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .section-1{
-background-color: #d9b03f;
-height: 100vh;
-width: 100%;
-
+    background-color: #d9b03f;
+    width: 100%;
 }
 
 .content-box{
@@ -55,7 +53,6 @@ h4{
 }
 
 .section-2{
-    height: 180vh;
     width: 100%;
 }
 
@@ -82,19 +79,16 @@ h4{
 .section-3{
 background-color: #d9b03f;
 width: 100%;
-height: 180vh;
 }
 
 
 .section-4{
-    height: 100vh;
     width: 100%;
 }
 
 .section-5{
     background-color: #d9b03f;
     width: 100%;
-    height: 180vh;
 }
 
 .section-6{
@@ -144,7 +138,6 @@ footer{
 
     .section-1{
         background-color: #d9b03f;
-        height: 130vh;
         width: 100%;
         
     }
@@ -194,7 +187,6 @@ footer{
     }
         
     .section-2{
-        height: 247vh;
         width: 100%;
     }
     
@@ -222,19 +214,16 @@ footer{
     .section-3{
         background-color: #d9b03f;
         width: 100%;
-        height: 251vh;
     }
         
         
     .section-4{
-        height: 127vh;
         width: 100%;
     }
         
     .section-5{
         background-color: #d9b03f;
         width: 100%;
-        height: 251vh;
     }
         
     .section-6{
